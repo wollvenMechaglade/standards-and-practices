@@ -162,6 +162,7 @@ Format:
 | Jonathan Means | [G01denW01f11](https://github.com/G01denW01f11) | Familiar with basics of Python |
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
 | Jonathan Mun | [jguy2591](https://github.com/jguy2591) | Basic knowledge in Java, C, html, css, javascript interested in learning more.|
+| Jordan Storz | [wollvenMechaglade](https://github.com/wollvenMechaglade) | Python via CodeAcademy
 | Josef Biza | [JoB70](https://github.com/JoB70) |C# Junior software developer.|
 | Joseph Parkton | [jparkton] (https://github.com/jparkton) | Autistic + Blind, learning to code in Python |
 | Justin Ellery | [Cellery72](https://github.com/Cellery72>) | Java, learning Python, 1st year CPA |
